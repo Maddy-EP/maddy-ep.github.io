@@ -12,7 +12,7 @@ visit.
 
 But while I'm here -- I built something pretty cool!
 
-https://cviz.maddyep.com
+<https://cviz.maddyep.com>
 
 Give it a try, especially if you're confused about pointers in C -- it might
 help!
