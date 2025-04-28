@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Is the blog coming back?!"
+date:   2025-04-27 21:00:00 -0700
+categories: jekyll update
+---
+
+I don't really know yet :)
+
+This is just a short post so there's not just a big, blank screen when you first
+visit.
+
+But while I'm here -- I built something pretty cool!
+
+https://cviz.maddyep.com
+
+Give it a try, especially if you're confused about pointers in C -- it might
+help!
+It's definitely a toy/prototype at this stage -- but I'm planning to keep
+hacking on it, it was a fun project to put together over a couple of days.
